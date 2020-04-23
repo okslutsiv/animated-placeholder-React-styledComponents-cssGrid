@@ -7,4 +7,4 @@ Such placeholders provide good UX and give users a sense of what to expect where
 
 Build with React, Styled-components and CSS Grid.
 
-![Screenshot](Peek 2020-04-23 15-08.gif)
+![Screenshot](animated.gif)
