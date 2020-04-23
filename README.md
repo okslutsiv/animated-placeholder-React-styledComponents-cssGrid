@@ -1,4 +1,4 @@
-# Animated Placeholder React Component
+# Animated Placeholder /React Component
 Created with CodeSandbox
 
 Placeholder loading animation effect similar to one that is used on sites like Facebook, LinkedIn, Instagram etc.
